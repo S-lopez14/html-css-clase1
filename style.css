@@ -2,13 +2,13 @@ html{
     background-color: #020202;
 }
 
-.container{
+.bunker{
     width: 100%;
 }
 
-.row{
+.holi{
     display: flex;
-    margin: 10px;
+    margin: 5px;
     width: 100%;
 }
 
@@ -23,35 +23,35 @@ html{
     background-color:cornflowerblue;
 } */
 
-.row .moto1 figure{
+.holi .moto1 figure{
     margin: 0px;
     padding: 0px;
     display: flex;
     justify-content: center;
 }
 
-.row .moto1 figure img{
+.holi .moto1 figure img{
     width: 80%;
 }
 
-.row .moto1:nth-child(1) div{
+.holi .moto1:nth-child(1) div{
     width: 80%;
-    margin: 120px auto;
+    margin: 40px auto;
 }
 
-.row .moto1:nth-child(2) div{
+.holi .moto1:nth-child(2) div{
     width: 80%;
-    margin: 80px auto;
+    margin: 40px auto;
 }
 
-.row .moto1 div a{
+.holi .moto1 div a{
     text-decoration: none;
     font-family: Arial, Helvetica, sans-serif;
     color: orangered;
-    font-size: 1.1rem;
+    font-size: 1.9rem;
 }
 
-.row .moto1 div p{
+.holi .moto1 div p{
     font-family: Arial, Helvetica, sans-serif;
     color: white;
     font-size: 1.5rem;
